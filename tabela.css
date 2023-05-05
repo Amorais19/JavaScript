@@ -5,7 +5,3 @@ table tr th, table tr td{
 table{
     border-collapse: collapse;
 }
-nav ul li a{
-    background-color: lightblue;
-    color: black;
-}
